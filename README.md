@@ -13,22 +13,22 @@ This project is a landing page created using HTML and CSS. The landing page is d
 Below are some screenshots of the landing page:
 
 ### Home Page
-![Home Page](./readme/home.jpg)
+![Home Page](./readme/home.png)
 
 ### Features Section
-![Features Section](./readme/features.jpg)
+![Features Section](./readme/features.png)
 
 ### Pricing Section
-![Pricing Section](./readme/pricing.jpg)
+![Pricing Section](./readme/pricing.png)
 
 ### Reviews Section
-![Reviews Section](./readme/reviews.jpg)
+![Reviews Section](./readme/reviews.png)
 
 ### Download Section
-![Download Section](./readme/download.jpg)
+![Download Section](./readme/download.png)
 
 ### Contact Section
-![Contact Section](./readme/contact_us.jpg)
+![Contact Section](./readme/contact_us.png)
 
 ## Technologies Used
 - **HTML**: For the structure and content of the page.
